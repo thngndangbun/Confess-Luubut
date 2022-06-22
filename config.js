@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: " Lưu Bút năm 12 ",
+    introTitle: 'Tên của bạn',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Phải chăng định mệnh đã đưa ta gặp nhau để rồi làm bạn và chơi dới nhau như thế này!! 🥰',
+    desc: 'Nói v chứ thí ghéc lắm nhaa ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao chúng ta lại gặp và nói chuyện dới nhau được nhờ, duyên phận cả đấy <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    reply: 'Cám Ơn Bạn Vì Đã Là 1 phần thanh xuân của mình, hãy hạnh phúc với con đường phía trước nhé',
+    mess: 'Mình biết bạn cũng quí mình mà',
+    messDesc: 'TCùng nhao hạnh phúc nhé',
+    btnAccept: ' <3',
+    messLink: 'https://www.facebook.com/thhhngann ,Hãy giữ liên lạc với mình nhé'
 }
