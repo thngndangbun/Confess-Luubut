@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Cám Ơn Bạn Vì Đã Là 1 phần thanh xuân của mình, hãy hạnh phúc với con đường phía trước nhé',
     mess: 'Mình biết bạn cũng quí mình mà',
-    messDesc: 'TCùng nhao hạnh phúc nhé',
+    messDesc: 'Cùng nhao hạnh phúc nhé',
     btnAccept: ' <3',
     messLink: 'https://www.facebook.com/thhhngann ,Hãy giữ liên lạc với mình nhé'
 }
